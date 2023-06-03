@@ -1,8 +1,8 @@
-#Chisinau tourist attraction
+## Chisinau tourist attraction
 
 ![img](/read-me-images/Screenshot%202023-04-12-100903.jpg)
 
-##Purpose of the project:
+## Purpose of the project:
 
 The purpose of this project is to present the main attractions of Chisinau, along with some brief historical information and location details. It aims to give tourists an overview of the city's key points of interest.
 
@@ -60,4 +60,4 @@ In this part I was inspired by the Love Running project
 The text sources on the first page in the "Tourist information" section are taken from:
 [this page](https://accesimobil.md/blog/chisinau-curiozitati)
 
-As an example, I followed the Love Running project from Codeinstitute. I took the social media links and added them to my priject.
+As an example, I followed the Love Running project from Codeinstitute. I took the social media links and added them to my project.
