@@ -1,39 +1,63 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+#Chisinau tourist attraction
 
-Welcome,
+![img](/read-me-images/Screenshot%202023-04-12-100903.jpg)
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+##Purpose of the project:
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+The purpose of this project is to present the main attractions of Chisinau, along with some brief historical information and location details. It aims to give tourists an overview of the city's key points of interest.
 
-## Codeanywhere Reminders
+ ## Home Page
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+- I have the title which is a link to the home page.
+The menu has links to the three pages in the project which.
+I added a class to mark the page that is active by highlighting the page name in the menu.
 
-`python3 -m http.server`
+- I added a suggestive image from the city of Chisinau
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+- In the Tourist Information section we have added a brief history and information about the location.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+- In the footer section I have included links to social media.
+In this part I was inspired by the Love Running project
 
-`http_server`
+## In Attraction Page
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- I have included a photo gallery from Chisinau
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Feedback form page
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- We have put a form where visitors can give Feedback about other attractions
 
-To log into the Heroku toolbelt CLI:
+## Credits
+ The sources of images and text are the already existing information sites for the citizens of Chisinau.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+  The sources of the images are the following:
+  -  [chisinau1](https://www.aviontourism.com/en/destinations/chisinau-469)
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+  -  [triumph](https://adventuresoflilnicki.com/moldova-travel-guide/)
 
----
+  -  [img1](https://cityseeker.com/de/chisinau/1207019-valea-morilor-park)
 
-Happy coding!
+  - [img2](https://photos.wikimapia.org/p/00/00/65/67/36_big.jpg)
+
+  -  [img3](https://upload.wikimedia.org/wikipedia/commons/0/07/Monumentul_lui_%C8%98tefan_cel_Mare_%C8%99i_Sf%C3%A2nt_din_Chi%C8%99in%C4%83u_14_-_March_-_2020_18.13.10_74.jpg)
+
+  - [img 4](https://www.tripadvisor.de/Attraction_Review-g294456-d4324605-Reviews-Dendrarium_Park-Chisinau_Chisinau_District.html#/media-atf/4324605/155369463:p/?albumid=-160&type=0&category=-160)
+
+  - [img5](https://de.wikipedia.org/wiki/Datei:%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B0_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%88%D0%B8%D0%BD%D0%B5%D0%B2,_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%9C%D0%BE%D0%BB%D0%B4%D0%BE%D0%B2%D0%B0_Catedrala_Na%C8%99terea_Domnului,_Chisinau,_Republica_Modova_Cathedral_of_Christ%27s_Navity,_Chisinau,_Republic_of_Moldova_%2851050512547%29.jpg)
+
+ - [img6](https://noi.md/md/news_id/249835#249835-1)
+
+ - [img7](https://i.simpalsmedia.com/afisha.md/places/750x350/479f6d7dfcf48a60d9f9e80db7c0a098.jpg)
+
+ - [img8](https://locals.md/2017/istoricheskaya-spravka-park-la-izvor/)
+
+
+ - [img9](https://visit.chisinau.md/wp-content/uploads/2021/11/Kiriac_muzeul-Etnografie.jpg)
+
+ - [cisinau2](https://img.itinari.com/page/content/original/e15c371d-09d1-4dd1-8b60-7924051b731d-istock-1096433020.jpg?ch=DPR&dpr=1.25&w=994&s=38cf794f3113a9f23b826d6af2d13ae4)
+                
+ 
+The text sources on the first page in the "Tourist information" section are taken from:
+[this page](https://accesimobil.md/blog/chisinau-curiozitati)
+
+As an example, I followed the Love Running project from Codeinstitute. I took the social media links and added them to my priject.
