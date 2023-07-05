@@ -2,7 +2,7 @@
 
 * {
   box-sizing: border-box;
-  margin:0;
+  margin: 1px;
 }
 
 
@@ -16,7 +16,7 @@ body{
 
 /* headings */
 
-h1, h2, {
+h1, h2 {
   font-family: Oswald, sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -54,10 +54,6 @@ margin: 2%;
   color: rgb(195, 10, 93);
 }
 
-.menu, .main-title {
-  line-height: 75px;
-
-}
 .menu a:hover {
   border-bottom: 1px solid #114287;
 }
@@ -234,6 +230,9 @@ footer {
       margin-left: 30px; 
       margin-bottom: 20px;
       line-height: 25px;
+      font-size: 124%;
+      line-height: 130%;
+      float: inherit;
   }
 
   .about {
@@ -285,7 +284,7 @@ footer {
     clear: left;
     margin-bottom: 30px;
     line-height: 25px;
-    letter-spacing: 1%;
+    margin-left: 10px;
     }
 
   main-title {
@@ -319,7 +318,7 @@ footer {
  
   .hero-image {
     background-size: 97%;
-    height: 300px;
+    height: 200px;
     width: 100%;
   }
 
@@ -340,8 +339,8 @@ footer {
   }
 
   .circle-container {
-    width: 300px;
-    height: 300px;
+    width: 208px;
+    height: 208px;
     border-style: solid;
     border-color: #cccccc;
     border-width: 1px;
@@ -352,4 +351,22 @@ footer {
   .social-networks {
     font-size: 120%;
   }
+}
+
+h1, h2 {
+  font-family: Oswald, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.welcome {
+  padding: 16px 0;
+  margin-top: 0;
+}
+
+.main-title {
+  font-size: 124%;
+  text-align: center;
+  line-height: 130%;
+  float: inherit;
 }

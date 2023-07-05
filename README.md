@@ -54,7 +54,7 @@ In this part I was inspired by the Love Running project
 
  - [img9](https://visit.chisinau.md/wp-content/uploads/2021/11/Kiriac_muzeul-Etnografie.jpg)
 
- - [cisinau2](https://img.itinari.com/page/content/original/e15c371d-09d1-4dd1-8b60-7924051b731d-istock-1096433020.jpg?ch=DPR&dpr=1.25&w=994&s=38cf794f3113a9f23b826d6af2d13ae4)
+ - [chisinau2](https://img.itinari.com/page/content/original/e15c371d-09d1-4dd1-8b60-7924051b731d-istock-1096433020.jpg?ch=DPR&dpr=1.25&w=994&s=38cf794f3113a9f23b826d6af2d13ae4)
                 
  
 The text sources on the first page in the "Tourist information" section are taken from:
