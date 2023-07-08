@@ -132,31 +132,29 @@ footer {
 
 /* Atractions */
 
-.debug-container {
-  border: 1px red dashed;
+.attraction {
+  flex-basis: calc(50% - 10px);
+  margin-bottom: 20px;
+  display: flex;
+  align-items: flex-start;
 }
 
-.div {
-  border: 1px red dashed;
+.attraction-image {
+  width: 40%;
+  position: relative;
 }
 
-.conainer {
-  width: auto;
+.attraction-image img {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
-.container-row {
-  height: 50%;
-}
-
-.container-image {
-  height: 50%;
-  width: 50%;
-}
-
-.description {
-  text-align: center;
-  margin: 50px 0;
-  font-size: 180%;
+.attraction-content {
+  width: 60%;
+  background-color: #f2f2f2;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 /* feedback form */
