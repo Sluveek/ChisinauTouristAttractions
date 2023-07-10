@@ -24,6 +24,12 @@
 
  - I have put a form where visitors can give Feedback about other attractions
 
+## Lighthouse
+
+  - Lighthouse showed this result:
+    
+    ![img](/read-me-images/screen2.jpg)
+
 ## Credits
   - The sources of images and text are the already existing information sites for the citizens of Chisinau.
 
@@ -60,5 +66,7 @@
   - [Nativity Cathedral](https://en.wikipedia.org/wiki/Nativity_Cathedral,_Chi%C8%99in%C4%83u#See_also)
   - [The National Museum](https://museu.ms/museum/details/16098/national-museum-of-history-of-moldova)
   - [The spring park](https://icopil.md/altele/parcul-la-izvor/)
+
+
 
 As an example, I followed the Love Running project from Codeinstitute. I took the social media links and added them to my project.
