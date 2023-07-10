@@ -58,5 +58,7 @@
   - [this page](https://www.gpsmycity.com/attractions/stefan-the-great-monument-7679.html)
   - [this page](https://www.itinari.com/en/dendrarium-park-the-most-stunning-roses-of-chisinau-f6ld)
   - [this page](https://en.wikipedia.org/wiki/Nativity_Cathedral,_Chi%C8%99in%C4%83u#See_also)
+  - [this page](https://museu.ms/museum/details/16098/national-museum-of-history-of-moldova)
+  - [this page](https://icopil.md/altele/parcul-la-izvor/)
 
 As an example, I followed the Love Running project from Codeinstitute. I took the social media links and added them to my project.
