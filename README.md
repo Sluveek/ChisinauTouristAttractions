@@ -4,7 +4,7 @@
 
 ## Purpose of the project:
 
- The purpose of this project is to present the main attractions of Chisinau, along with some brief historical information and location details. It aims to give tourists an overview of the city's key points of interest.
+ - The purpose of this project is to present the main attractions of Chisinau, along with some brief historical information and location details. It aims to give tourists an overview of the city's key points of interest.
 
 ## Home Page
 
@@ -53,12 +53,12 @@
  - [this page](https://accesimobil.md/blog/chisinau-curiozitati)
 
  The text sources on the second page in the "Attracrions" section are taken from:
-  - [this page](https://visit.chisinau.md/en/obiective_turistice/parcul-valea-morilor/)
-  - [this page](https://www.atlasobscura.com/places/chisinau-state-circus)
-  - [this page](https://www.gpsmycity.com/attractions/stefan-the-great-monument-7679.html)
-  - [this page](https://www.itinari.com/en/dendrarium-park-the-most-stunning-roses-of-chisinau-f6ld)
-  - [this page](https://en.wikipedia.org/wiki/Nativity_Cathedral,_Chi%C8%99in%C4%83u#See_also)
-  - [this page](https://museu.ms/museum/details/16098/national-museum-of-history-of-moldova)
-  - [this page](https://icopil.md/altele/parcul-la-izvor/)
+  - [Valey of the mills](https://visit.chisinau.md/en/obiective_turistice/parcul-valea-morilor/)
+  - [Circus](https://www.atlasobscura.com/places/chisinau-state-circus)
+  - [Stefan the Great](https://www.gpsmycity.com/attractions/stefan-the-great-monument-7679.html)
+  - [Dendrarium Park](https://www.itinari.com/en/dendrarium-park-the-most-stunning-roses-of-chisinau-f6ld)
+  - [Nativity Cathedral](https://en.wikipedia.org/wiki/Nativity_Cathedral,_Chi%C8%99in%C4%83u#See_also)
+  - [The National Museum](https://museu.ms/museum/details/16098/national-museum-of-history-of-moldova)
+  - [The spring park](https://icopil.md/altele/parcul-la-izvor/)
 
 As an example, I followed the Love Running project from Codeinstitute. I took the social media links and added them to my project.
