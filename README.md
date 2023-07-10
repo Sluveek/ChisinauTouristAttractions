@@ -1,6 +1,6 @@
 ## Chisinau tourist attraction
 
-  [img](/read-me-images/screen1.jpg)
+  ![img](/read-me-images/screen1.jpg)
 
 ## Purpose of the project:
 
